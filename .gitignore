@@ -1,0 +1,9 @@
+
+node_modules/
+.vscode/
+.env
+.dist/
+dist/
+storybook-static/
+.DS_Store
+/*.zip
