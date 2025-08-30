@@ -95,7 +95,7 @@ Dark mode enabled via Tailwind’s `dark` class. Use the "Toggle Dark" button in
 ## Screenshots Of Website
 
 Light Mode:
-![Light-Mode]("./screenshots/light-mode.png")
+![Light-Mode](./screenshots/light-mode.png)
 
 Dark Mode:
-![Dark-Mode]("./screenshots/dark-mode.png")
+![Dark-Mode](./screenshots/dark-mode.png)
